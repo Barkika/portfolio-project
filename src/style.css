@@ -36,3 +36,9 @@ footer {
   background-color: #f0f0f0;
   color: #666;
 }
+
+.btn-primary {
+  color: #333;
+  background-color: #e8cfb1;
+  border-color: #8b8a8a;
+}
