@@ -42,3 +42,7 @@ footer {
   background-color: #e8cfb1;
   border-color: #b8a58d;
 }
+
+.me-foto {
+  max-width: 70%;
+}
