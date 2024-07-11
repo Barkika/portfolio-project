@@ -45,4 +45,11 @@ footer {
 
 .img-fluid {
   max-width: 50%;
+  margin-left: 150px;
+  margin-top: 50px;
+  filter: grayscale(100%) brightness(0.7) saturate(80%);
+}
+
+.img-fluid:hover {
+  transform: scale(1.2);
 }
