@@ -43,6 +43,6 @@ footer {
   border-color: #b8a58d;
 }
 
-.me-foto {
-  max-width: 70%;
+.img-fluid {
+  max-width: 50%;
 }
