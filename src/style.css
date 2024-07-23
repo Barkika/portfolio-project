@@ -1,3 +1,10 @@
+:root {
+  --branding-color: #c5aa8e7e;
+  --secondary-color: #f9f7fe;
+  --heading-font-family: "Playfair Display", serif;
+  --default-font-family: "Poppins", sans-serif;
+}
+
 /* Global styles */
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -51,5 +58,18 @@ footer {
 }
 
 .img-fluid:hover {
+  transform: scale(1.2);
+}
+
+footer {
+  margin: 5px 0;
+}
+
+footer .social-links a {
+  font-size: 30px;
+  padding: 10px;
+}
+
+.social-links a:hover {
   transform: scale(1.2);
 }
