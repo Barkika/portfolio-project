@@ -61,10 +61,6 @@ footer {
   transform: scale(1.2);
 }
 
-footer {
-  margin: 5px 0;
-}
-
 footer .social-links a {
   font-size: 30px;
   padding: 10px;
